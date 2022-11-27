@@ -48,3 +48,5 @@ The ClaimsPrincipal Convenience Members for Claims
 | FindAll(filter) FindFirst(filter) | This method returns the claims, or the first claim, that matches the specified filter predicate from all the ClaimIdentity objects associated with the ClaimsPrincipal |
 | HasClaim(type, value) | This method returns true if any of the ClaimIdentity objects associated with |
 | HasClaim(filter) | the ClaimsPrincipal has a claim with the specified type and value or that matches the specified predicate. |
+
+
